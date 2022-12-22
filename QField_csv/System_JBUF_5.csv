@@ -1,0 +1,207 @@
+fid,Plant_ID,spl_code,Airtable,unknown,x_coord,y_coord,UUID
+"1",Impatiens balsamina L.,DBGI_SPL_000390,,,2578465.342,1182411.243,{be16c04d-8ddd-4fa3-bbbe-acbbde834627}
+"2",Impatiens x new guinea,DBGI_SPL_000457,,,2578466.753,1182411.248,{8ead1ebe-de3a-4eb7-bd26-1a1087c58121}
+"3",Aaunknown,DBGI_SPL_000475,,fleurs roses Ã  violettes,2578467.081,1182410.887,{d99131bf-9e68-482c-b2af-e3a232dec2ba}
+"4",Cobaea scandens Cav.,DBGI_SPL_000474,,,2578469.196,1182410.172,{58680eeb-2fb7-4f69-b4d2-8d8e01ebce78}
+"5",Phlox drummondii Hook.,DBGI_SPL_000470,,,2578469.323,1182409.731,{1ca477db-c3ab-4ce3-a861-3c89b635ff9d}
+"6",Polemonium caeruleum L.,DBGI_SPL_000441,,,2578469.628,1182410.515,{ff4a627a-df7a-4f3a-a487-52c89b3fee7d}
+"7",Phlox amplifolia Britton,DBGI_SPL_000460,,,2578470.286,1182410.597,{7213dbf9-0ff2-4a0d-930a-4c32aa5f2187}
+"8",Gaultheria procumbens L.,DBGI_SPL_000476,,,2578471.251,1182409.023,{c5d1fa19-88cf-47e8-9e72-3c5bd539058b}
+"9",Vaccinium corymbosum L. 'Patriot',DBGI_SPL_000471,,,2578471.516,1182409.202,{9c738771-29bb-42b0-af7a-8564dc220de8}
+"10",,DBGI_SPL_000461,,PiÃ©ris selon Ã©criteau,2578472.71911344,1182408.66574449,{3e6e29aa-9195-42cc-a836-3cd0b87fcfb4}
+"11",Erica terminalis Salisb.,DBGI_SPL_000439,,,2578474.026,1182408.553,{3f083952-bc1c-4b94-b011-0598717fa087}
+"12",Erica vagans L.,DBGI_SPL_000482,,,2578474.215,1182408.003,{3ff317cc-cef2-452b-adc8-3843a149ef23}
+"13",Lysimachia clethroides Duby,DBGI_SPL_000483,,,2578471.877,1182410.272,{574093fe-f0c3-46ad-aca8-19a10739582c}
+"14",Lysimachia punctata L.,DBGI_SPL_000477,,,2578472.775,1182409.989,{11f9f620-a02a-41d7-9e7e-e92485da6eec}
+"15",Primula veris L. subsp. veris,DBGI_SPL_000485,,,2578473.321,1182409.599,{77e9ce3d-c80d-4827-ba54-281b15129ed6}
+"16",Primula auricula L.,DBGI_SPL_000440,,,2578473.64,1182409.552,{0955f297-834c-48b4-b674-c770fe850635}
+"17",,DBGI_SPL_000437,,primula acaulis selon panneau,2578473.76979105,1182410.03857809,{34d08da1-c1b4-4917-8ca0-9fa368b7c15b}
+"18",Androsace sempervivoides Duby,DBGI_SPL_000391,,,2578473.929,1182409.807,{5040f014-5210-4978-a0d6-0ab5e7110889}
+"19",,DBGI_SPL_000442,,arbutus unedo selon panneau,2578473.39992787,1182408.33503562,{15c86b8e-8685-4940-a81d-726e0ebe27ef}
+"20",Clethra alnifolia L.,DBGI_SPL_000492,,,2578475.572,1182408.079,{c646e8c6-a259-42da-9c26-377f406453d8}
+"21",Cyrilla racemiflora L.,DBGI_SPL_000428,,,2578476.821,1182406.593,{831c0768-eaba-4eeb-bda3-2b38a463d488}
+"22",Diospyros lotus L. Femelle,DBGI_SPL_000500,,,2578477.633,1182408.51,{ee8cfdba-794b-47e3-8e25-b7d9930de2bb}
+"23",Actinidia kolomikta (Maxim. et Rupr.) Maxim.,DBGI_SPL_000449,,,2578478.623,1182406.332,{800fc9e2-8adf-4af1-81d1-3a7c9bf22059}
+"24",Franklinia alatamaha Marshall,DBGI_SPL_000487,,,2578480.558,1182406.651,{81831c3a-321d-4921-9b75-0a23b93a8862}
+"25",Stewartia pseudocamellia var. koreana ( Rehder) Sealy,DBGI_SPL_000430,,,2578479.767,1182409.207,{36908d71-e686-4ada-82f7-f6817649de3d}
+"26",Halesia carolina L.,DBGI_SPL_000410,,,2578481.818,1182408.735,{494aca31-554b-4c8c-a00b-0da46abb91c9}
+"27",Pterostyrax hispida Siebold et Zucc.,DBGI_SPL_000466,,,2578483.221,1182406.766,{5a77e6c8-5abd-4755-bfe2-3cca3011bd29}
+"28",Sinojackia rehderiana Hu,DBGI_SPL_000499,,,2578485.651,1182408.027,{9fbeb7c9-5b10-47db-953c-b623a542bf1f}
+"29",Cornus florida fo. rubra (Weston) Schelle,DBGI_SPL_000425,,,2578486.03,1182404.985,{8f35d02e-d286-41cb-83b0-b1f025e7d136}
+"30",Davidia involucrata Baill. s.l.,DBGI_SPL_000434,,,2578488.962,1182403.541,{4563da82-75d1-40e2-9edc-22f6e483595a}
+"31",Cornus alternifolia L. f.,DBGI_SPL_000493,,,2578488.742,1182407.239,{abf1b233-ac74-41db-80ac-52a0535017e6}
+"32",Cornus sanguinea L.,DBGI_SPL_000406,,,2578492.435,1182401.953,{43eda29b-d5c4-4acb-ae82-1881f3693870}
+"33",Deutzia scabra Thunb. 'Pride of Rochester',DBGI_SPL_000481,,,2578492.165,1182405.251,{d706c669-9430-4e58-8609-15d2984d5e5c}
+"34",Philadelphus coronarius L.,DBGI_SPL_000386,,,2578493.444,1182407.058,{911d62b6-57ba-4374-a5c6-4c6dca4bfca4}
+"35",Kirengeshoma palmata Yatabe,DBGI_SPL_000426,,,2578494.383,1182404.218,{eb129202-66c8-4bf7-861b-242a543e521a}
+"36",Hydrangea arborescens subsp. discolor (Ser.) E.M. McClint.,DBGI_SPL_000450,,,2578493.643,1182404.594,{1006a9d3-3536-460a-84cd-96969236b325}
+"37",Hydrangea paniculata Siebold 'Grandiflora',DBGI_SPL_000451,,,2578494.49,1182404.822,{50d17e7e-37dd-4059-8b05-2771da165173}
+"38",Hydrangea aspera D. Don,DBGI_SPL_000381,,,2578495.342,1182405.816,{c382e5b6-bbcf-423e-8bed-f59e3bd9d8e3}
+"39",Hydrangea macrophylla (Murray) Ser.,DBGI_SPL_000504,,,2578495.745,1182406.55,{f182fe17-a451-4b22-811d-9070d41e9ee0}
+"40",Vitis labrusca L.,DBGI_SPL_000462,,,2578498.28,1182403.506,{0c658c9c-6f18-4216-9358-bdffd2552e1c}
+"41",Vitis vulpina L.,DBGI_SPL_000446,,,2578498.317,1182401.721,{8a260e13-1a27-451b-9e94-66aaee69fa1d}
+"42",Ampelopsis glandulosa var. brevipedunculata (Maxim.) Momiy.,DBGI_SPL_000443,,,2578499.828,1182404.034,{2ea78b85-3eab-40dd-bee8-a1376ee7c413}
+"43",Paeonia suffruticosa Andrews subsp. suffruticosa,DBGI_SPL_000380,,,2578496.338,1182400.302,{2f9e109e-cbb7-4a20-9947-4f7cabb858d0}
+"44",Paeonia rockii D.Y.Hong,DBGI_SPL_000452,,,2578496.973,1182400.288,{cb5a685d-a108-4839-aa15-048dada58368}
+"45",Paeonia mascula (L.) Mill. s.l.,DBGI_SPL_000403,,,2578497.741,1182398.781,{3e237c8d-2249-4343-9ec7-a606c6cc1cf9}
+"46",Paeonia daurica subsp. mlokosewitschii (Lomakin) D.Y.Hong,DBGI_SPL_000383,,,2578498.608,1182397.925,{6cd33629-c0e9-485f-90fb-3571c6195e5d}
+"47",Paeonia lutea Franch.,DBGI_SPL_000465,,,2578499.66,1182396.904,{f671e9df-eb5d-483f-8381-ed61b1cc4764}
+"48",Corylopsis spicata Siebold et Zucc.,DBGI_SPL_000412,,,2578501.456,1182395.357,{223836cf-0e2f-4e44-ab3d-3c86cafc5c33}
+"49",Parrotia persica (DC.) C.A. Mey.,DBGI_SPL_000502,,,2578504.281,1182395.562,{af2e0a3b-7955-4995-b90d-27d48ff6204f}
+"50",Vitis vinifera L. subsp. vinifera,DBGI_SPL_000393,,,2578500.479,1182399.816,{398bf57f-54ea-459b-83bb-a5a84605c0da}
+"51",Liquidambar styraciflua L.,DBGI_SPL_000479,,,2578503.887,1182392.286,{c4d7ffe0-cbe9-4251-8ae0-2b91330f2bae}
+"52",Fothergilla gardenii L.,DBGI_SPL_000468,,,2578503.689,1182390.29,{ece80f2e-0d92-49d5-9d13-9f5044b11650}
+"53",Cercidiphyllum japonicum Sieb. et Zucc. Mï¿½le,DBGI_SPL_000490,,,2578507.368,1182390.61,{959b1916-0413-4fb6-aead-384033203a71}
+"54",Ribes aureum Pursh,DBGI_SPL_000405,,,2578505.455,1182386.25,{f32d351e-3e9f-4844-b29d-9b6a18ff950d}
+"55",Ribes fasciculatum Siebold et Zucc.,DBGI_SPL_000382,,,2578507.689,1182385.19,{65eb0675-5670-4c9a-badc-8b703f5afd62}
+"56",Ribes nigrum L. 'Titania',DBGI_SPL_000394,,,2578509.578,1182384.106,{e7baa7cc-1625-49f7-99ec-19f318c8ab95}
+"57",Ribes rubrum L. 'Blanc de Versailles',DBGI_SPL_000438,,,2578509.003,1182382.645,{c7f44082-0992-44b7-8f0c-2cb2cd83c4e5}
+"58",Ribes uva-crispa var. sativum DC. 'Hinnonmï¿½ki',DBGI_SPL_000458,,,2578508.198,1182380.427,{d00adfb1-d554-496f-a703-bca0c8774db8}
+"59",Bergenia crassifolia (L.) Fritsch,DBGI_SPL_000395,,,2578508.919,1182396.237,{bfebcc39-deed-4b63-b9df-0e1fa2b97a5c}
+"60",Darmera peltata (Benth.) Voss,DBGI_SPL_000498,,,2578506.66,1182398.865,{67263e46-8448-49d4-b9da-0ff72fc36906}
+"61",Astilbe japonica (C. Morren et Decne.) A.Gray,DBGI_SPL_000424,,,2578506.221,1182399.156,{aea0a6d4-fb1d-42c2-87cc-c06e9a28ad57}
+"62",Tiarella cordifolia L.,DBGI_SPL_000497,,,2578505.088,1182399.257,{dcd035a5-4409-43c6-8229-b536afe4b9cd}
+"63",Mitella caulescens Nutt.,DBGI_SPL_000469,,,2578505.782,1182399.725,{a3296e78-bc5d-466c-a21a-b51a752cd1e9}
+"64",Tolmiea menziesii (Pursh) Torr. et A. Gray.,DBGI_SPL_000389,,,2578505.183,1182400.372,{98d51030-630e-4d62-9b5e-d95018b619ba}
+"65",Heuchera americana L. s.l.,DBGI_SPL_000501,,,2578504.756,1182400.128,{f900eea7-9e63-432d-b90b-00b0e9df4e89}
+"66",Tellima grandiflora (Pursh) Lindl.,DBGI_SPL_000387,,,2578504.578,1182399.69,{04b80a29-2360-428f-8cb7-efd1d3abc178}
+"67",Saxifraga geranioides L.,DBGI_SPL_000402,,,2578504.412,1182400.686,{4a256b99-9a07-4370-b72d-05d8262b9923}
+"68",Saxifraga hypnoides L.,DBGI_SPL_000448,,,2578504.139,1182400.971,{7ab6807e-aa3e-4f33-bec8-5547da5e1868}
+"69",Saxifraga hostii Tausch,DBGI_SPL_000404,,,2578503.605,1182401.492,{e79235d1-6195-4747-a7d3-43dfe52caaab}
+"70",Saxifraga marginata Sternb.,DBGI_SPL_000454,,,2578503.475,1182400.615,{73dd4d1e-2221-42cc-9198-5fa92a61e497}
+"71",Saxifraga paniculata subsp. cartilaginea (Willd.) D.A. Webb,DBGI_SPL_000413,,,2578504.003,1182400.294,{c46b2a5b-106a-4337-a5c1-c4b05704ffe4}
+"72",Chiastophyllum oppositifolium (Ledeb.) A.Berger,DBGI_SPL_000491,,,2578502.348,1182401.996,{8ed34e1e-39b3-4e26-a572-b6c5709fe0b3}
+"73",Sempervivum grandiflorum Haw.,DBGI_SPL_000447,,,2578501.957,1182402.133,{4a310760-5e04-443c-8ec5-7c0fd5992f6a}
+"74",Sempervivum tectorum L. subsp. tectorum,DBGI_SPL_000459,,,2578502.182,1182401.753,{9f22a417-dd36-4d15-940a-d96a2c818ecf}
+"75",Sempervivum montanum L.,DBGI_SPL_000453,,,2578502.366,1182401.594,{920b0712-5d5e-45de-bb7f-254234b80306}
+"76",Sedum telephium L. s.l.,DBGI_SPL_000494,,,2578501.61,1182402.06,{a47d39bd-c040-4580-9162-ac7512dd0772}
+"77",Sedum rupestre L.,DBGI_SPL_000427,,,2578501.72,1182401.856,{a576b3ac-affd-4523-8a0a-4ae20ab92f6e}
+"78",Phedimus middendorffianus (Maxim.) 't Hart,DBGI_SPL_000480,,,2578501.965,1182401.552,{8b3d9c0e-064f-4ff9-b02e-9f7851afffd7}
+"79",Araucaria araucana (Molina) K. Koch,DBGI_SPL_000456,,,2578493.605,1182395.354,{05b38322-bb68-4904-bf5a-ee4e4b29088c}
+"80",Pinus mugo subsp. uncinata (DC.) Domin,DBGI_SPL_000420,,,2578491.381,1182392.806,{51983b57-b9e5-4aab-a6c4-d49b957f5b6d}
+"81",Abies koreana E.H. Wilson,DBGI_SPL_000496,,,2578492.784,1182391.159,{14a829f0-4c89-45ec-bfb5-a0401593c6ac}
+"82",Picea omorika (Pancic) Purk.,DBGI_SPL_000414,,,2578494.419,1182392.354,{dfbabab5-af56-4581-ac80-d1db65ef8457}
+"83",Cephalotaxus harringtonii (J. Forbes) K. Koch,DBGI_SPL_000432,,,2578496.084,1182393.811,{16a6656e-3560-4dc7-9256-c1c7259824db}
+"84",Juniperus communis L. subsp. communis,DBGI_SPL_000399,,,2578497.868,1182391.718,{8c5ef70c-fde8-4143-a5b7-4ae6fe28f73c}
+"85",Podocarpus nivalis Hook.,DBGI_SPL_000422,,,2578494.142,1182389.502,{9580ce90-12a5-42db-9eed-8ccbe8c8da52}
+"86",Taxus baccata L. femelle,DBGI_SPL_000444,,,2578496.583,1182388.843,{f0a1b63c-95b9-4c02-bae4-69e68f69489e}
+"87",Cupressus sempervirens L.,DBGI_SPL_000489,,,2578499.034,1182390.265,{0eac2763-fd05-4ccd-90ea-f067d617d47a}
+"88",Sciadopitys verticillata (Thunb.) Siebold & Zucc.,DBGI_SPL_000411,,,2578499.95031983,1182387.80314272,{189b00fa-9e35-4a0d-837e-d19de44ec441}
+"89",Ephedra fragilis Desf. s.l. Femelle,DBGI_SPL_000484,,,2578501.104,1182386.567,{0d573a8e-d9db-4c81-9072-3fe2fe190843}
+"90",Catalpa ovata G. Don,DBGI_SPL_000423,,,2578486.305,1182397.448,{2c9fc3c9-3f73-422a-a2bb-e984acdbd454}
+"91",Asplenium adiantum-nigrum L.,DBGI_SPL_000488,,,2578488.536,1182395.361,{4e14e1c0-a0c8-4d3e-ba8c-82e0b27416af}
+"92",Phyllitis scolopendrium (L.) Newman,DBGI_SPL_000396,,,2578487.856,1182395.889,{e70eb05d-d76a-4495-bf46-159b06b46bd1}
+"93",Athyrium filix-femina (L.) Roth,DBGI_SPL_000467,,,2578487.611,1182395.5,{6e6d527c-58cd-49af-a5e4-b93a7411d963}
+"94",Dryopteris affinis (Lowe) Fraser-Jenk.,DBGI_SPL_000455,,,2578487.045,1182394.783,{830a74d8-cb09-445b-86f0-3b022b31735d}
+"95",Dryopteris dilatata (Hoffm.) A. Gray,DBGI_SPL_000421,,,2578487.795,1182394.373,{3ad5ca05-0551-49b7-83b9-53e8bdc52764}
+"96",Dryopteris filix-mas (L.) Schott,DBGI_SPL_000415,,,2578486.664,1182394.234,{22b3b237-7a9e-4082-a014-d9d44bb20c87}
+"97",Polystichum aculeatum (L.) Roth,DBGI_SPL_000473,,,2578487.357,1182393.64,{7921147f-2fa6-44d6-b785-8f2569ac8c13}
+"98",Magnolia liliiflora Desr. 'Nigra',DBGI_SPL_000535,,,2578473.768,1182403.415,{f05c6598-e2ee-4d0c-8042-c6543767ccd7}
+"99",Nymphaea alba L.,DBGI_SPL_000464,,,2578476.953,1182401.712,{7a45dbfe-2c54-40da-9681-0dc174a95709}
+"100",Magnolia stellata (Siebold et Zucc.) Maxim. 'Royal Star',DBGI_SPL_000536,,,2578475.068,1182400.395,{a4fe1472-be13-4ce2-ad4f-0ff2b646d9f4}
+"101",Chimonanthus praecox (L.) Link,DBGI_SPL_000532,,,2578478.185,1182399.543,{d518e6df-4960-45ed-bc84-a842cb30d731}
+"102",Calycanthus chinensis (W.C. Cheng et S.Y. Chang) P.T. Li,DBGI_SPL_000401,,,2578479.571,1182399.009,{fd0f9c96-4af6-4fd9-bd8b-3fd2cf75d83f}
+"103",Asimina triloba (L.) Dunal 'Sunflower',DBGI_SPL_000463,,,2578477.01,1182397.53,{8fc438e8-4303-45aa-b06e-2cc1a5339549}
+"104",Calycanthus fertilis Walter s.l.,DBGI_SPL_000526,,,2578480.098,1182397.038,{cee9f8b7-c49f-4145-bb2f-ff7ee4fcb419}
+"105",,DBGI_SPL_000445,,sassafras albidum selon panneau,2578478.5011845,1182394.51240487,{93b2399d-35a0-4649-abeb-234b19793854}
+"106",Schisandra chinensis (Turcz.) Baill. mono¯que,DBGI_SPL_000431,,,2578481.89980214,1182394.32199181,{c4420568-2f52-41dc-bce7-834713a380c1}
+"107",Saruma henryi Oliv.,DBGI_SPL_000531,,,2578484.824,1182391.29,{6bf3e605-c904-4727-bbef-16448695d864}
+"108",Asarum caudatum Lindl.,DBGI_SPL_000400,,,2578485.181,1182390.673,{ee3192b8-8c54-4653-aa13-ba1260244ae8}
+"109",Aristolochia rotunda L.,DBGI_SPL_000538,,,2578484.354,1182390.633,{591325e0-10c8-41fd-af90-87cb879fe20c}
+"110",,DBGI_SPL_000530,,iris pallida subsp illyrica,2578469.74126913,1182405.22707771,{4e68b106-9d74-45de-bd6c-f0b23a1d9dd4}
+"111",Iris pallida Lam.,DBGI_SPL_000529,,,2578469.897,1182404.866,{292c3466-0d70-46c8-ae14-24c967fc8121}
+"112",Iris x germanica L.,DBGI_SPL_000384,,,2578470.09,1182404.37,{1e08558c-a349-4262-8eb6-c9752e16109b}
+"113",Iris kochii Stapf,DBGI_SPL_000564,,,2578470.287,1182403.509,{8723f42c-28c8-4a42-a290-a97422f5ef69}
+"114",Iris lactea Pall. fo. lactea,DBGI_SPL_000495,,,2578470.462,1182403.122,{ca69271d-add3-44ff-8040-856c607f1873}
+"115",Iris foetidissima L.,DBGI_SPL_000527,,,2578470.064,1182403.006,{dacb15d6-a901-49c1-ae3c-6f0e1e3b4454}
+"116",Iris spuria L. subsp. spuria,DBGI_SPL_000436,,,2578470.859,1182402.298,{3fefcbd4-8d89-4532-972c-1a473ad5dece}
+"117",Iris crocea R.C. Foster,DBGI_SPL_000541,,,2578470.201,1182402.215,{0a1256bd-e4ed-41bc-8295-a9300ded46a1}
+"118",Iris forrestii Dykes,DBGI_SPL_000565,,,2578471.232,1182401.632,{4327eb49-62e7-44ba-9407-4f52d23fdbd3}
+"119",Iris sibirica L.,DBGI_SPL_000542,,,2578470.673,1182401.35,{f915a010-de1b-48b9-9f22-e4d191136c40}
+"120",Iris lutescens Lam.,DBGI_SPL_000397,,,2578471.435,1182401.015,{c2f451b3-ec0d-4f33-9279-859918693aa5}
+"121",Iris tectorum Maxim.,DBGI_SPL_000435,,,2578470.822,1182400.584,{38157066-8822-448c-a478-f92be2a833f7}
+"122",Sisyrinchium patagonicum Phil.,DBGI_SPL_000537,,,2578471.737,1182400.269,{e1268e97-b6d2-497c-9928-1c6978c9122c}
+"123",,DBGI_SPL_000533,,iris missouriensis,2578471.16979747,1182399.94645292,{e0d7ba26-7b48-4440-a4cc-2a28234c1bda}
+"124",Lilium regale E.H. Wilson,DBGI_SPL_000408,,,2578473.798,1182394.875,{2a502b28-8ade-4b84-826e-8032d1c10c41}
+"125",Baldellia ranunculoides (L.) Parl.,DBGI_SPL_000398,,,2578478.724,1182388.459,{fa75ae67-f308-4c93-afdf-e86686e5ea65}
+"126",Sagittaria sagittifolia L.,DBGI_SPL_000417,,,2578478.194,1182387.983,{0f907d19-80f0-441f-8e70-1226f7f0cc2d}
+"127",Arum italicum Mill.,DBGI_SPL_000392,,,2578479.911,1182386.349,{d209d757-c946-45c5-8efe-70a6b8fbede8}
+"128",Canna x generalis L.H. Bailey et E.Z. Bailey,DBGI_SPL_000520,,,2578479.474,1182384.149,{f80dbf22-6c45-41c8-a95e-da7dea9167cf}
+"129",Musa basjoo Iinuma,DBGI_SPL_000419,,,2578477.987,1182385.529,{09d77635-c3c1-4abb-ba3d-dde31cae561b}
+"130",Tradescantia virginiana L.,DBGI_SPL_000409,,,2578477.068,1182386.797,{180f3a0e-15a9-4db4-bbf9-21cc714a22b2}
+"131",Chamaerops humilis L.,DBGI_SPL_000407,,,2578475.812,1182387.751,{d4f0392c-fdf8-44f8-8020-5291f00ed490}
+"132",Hosta sieboldiana (Hook.) Engl. var. sieboldiana,DBGI_SPL_000534,,,2578474.765,1182389.146,{6a7b636a-5784-4a77-8217-bbc8802b6843}
+"133",Muscari neglectum Ten.,DBGI_SPL_000433,,,2578473.463,1182392.139,{0ea4ec07-d2f4-403b-86a3-37b81016177d}
+"134",Ornithogalum viridiflorum (I.Verd.) J.C.Manning  Goldblatt,DBGI_SPL_000418,,,2578472.731,1182392.27,{7ccf68a7-9702-438c-bbfe-0caacffb0af2}
+"135",Ornithogalum regale (Hilliard et B.L. Burtt) J.C. Manning et Goldblatt,DBGI_SPL_000429,,,2578473.237,1182392.557,{50bffe71-1d67-49df-8b9e-041a7f8ff684}
+"136",Asparagus officinalis L.,DBGI_SPL_000486,,,2578472.391,1182393.395,{08047bfc-729a-4ee4-874f-3e0f057e0370}
+"137",Allium tuberosum Spreng.,DBGI_SPL_000540,,,2578471.374,1182394.806,{8cf11a71-11f3-4d7b-a79e-960f9b79d52a}
+"138",Allium fistulosum L.,DBGI_SPL_000388,,,2578471.597,1182395.234,{a1a359e3-74c5-4aeb-a34b-81f57bf72b8d}
+"139",Allium x proliferum (Moench) Willd.,DBGI_SPL_000539,,,2578471.15,1182396.572,{fc5eac45-ab8d-4a58-bf8b-809a8d53749f}
+"140",Allium porrum L.,DBGI_SPL_000385,,,2578470.279,1182396.884,{140f15cf-0fa3-423f-9079-3bcdf77cc7f1}
+"141",Allium insubricum Boiss. et Reut.,DBGI_SPL_000478,,,2578470.532,1182397.405,{1a26164f-f5e2-44c2-be9d-5a7127909302}
+"142",Tulbaghia violacea Harv.,DBGI_SPL_000472,,,2578470.084,1182397.322,{3cb687f6-cc92-4be4-87f4-c791d9051526}
+"143",Kniphofia ensifolia Baker s.l.,DBGI_SPL_000566,,,2578468.692,1182399.926,{f65f6cad-718a-4534-9218-5932ff7e394a}
+"144",Bulbine semibarbata (R. Br.) Haw.,DBGI_SPL_000416,,,2578468.4,1182400.651,{2082f709-bf6c-45d9-a2bd-80e5b7b20149}
+"145",Asphodelus ramosus L. subsp. ramosus,DBGI_SPL_000889,,,2578468.646,1182401.897,{8f5b2978-1966-47c7-9a65-58bf09ef1485}
+"146",Hemerocallis fulva (L.) L.,DBGI_SPL_000896,,,2578467.434,1182403.515,{e90b6c09-1cc9-4147-a9b7-fc3a8b5e52cc}
+"147",Gladiolus murielae Kelway,DBGI_SPL_000893,,,2578467.787,1182405.085,{f60a39fb-b48c-494f-aaa1-0735150f2bf0}
+"148",Crocus sativus L.,DBGI_SPL_000567,,,2578467.221,1182405.506,{603d34b4-24f4-4b86-968b-a56cb787a6a8}
+"149",Brassica napus subsp. rapifera Metzg.,DBGI_SPL_000890,,,2578464.574,1182401.617,{db848693-7a51-48d9-ad42-0a4f8f882730}
+"150",Brassica oleracea L. Gongylodes Group,DBGI_SPL_000560,,,2578464.736,1182401.109,{b4ea0067-73c2-4de6-94d4-799c5cb121a7}
+"151",Brassica oleracea L. Rubra Group,DBGI_SPL_000544,,,2578465.543,1182398.871,{40a540f3-07cd-4bb1-85f8-277aab9a98ff}
+"152",Brassica oleracea L. Capitata Group,DBGI_SPL_000556,,,2578465.698,1182398.608,{a911b6b3-f361-4bd6-94f7-4d4b63db8bdb}
+"153",Brassica oleracea L. Gemmifera Group,DBGI_SPL_000895,,,2578466.037,1182398.172,{0083b0f0-bc54-40f0-820d-7731b15295eb}
+"154",Brassica oleracea L. Sabauda Group,DBGI_SPL_000892,,,2578465.958,1182398.404,{1913832d-de5b-43ad-ad1d-c14d67f134c7}
+"155",Brassica oleracea L. Sabellica Group,DBGI_SPL_000546,,,2578466.245,1182397.926,{6baf43a8-2015-4b71-93d7-476bf17f6305}
+"156",Aaunknown,DBGI_SPL_000552,,brassica indeterminÃ©,2578466.533,1182397.546,{20aea8f6-dc25-4352-91b3-bdaafaf5470c}
+"157",Brassica oleracea L. subsp. oleracea,DBGI_SPL_000517,,,2578466.899,1182396.595,{ebceaea6-bb91-4d95-b65b-1a6245cf1607}
+"158",Koeleria macrantha (Ledeb.) Schult.,DBGI_SPL_000894,,,2578467.182,1182396.219,{52cc4cb9-317c-44e9-9fb1-acb77dc785a0}
+"159",Calamagrostis epigejos Roth.,DBGI_SPL_000883,,,2578466.514,1182395.728,{cf5c18f7-cd28-4588-8036-a85d7410e71e}
+"160",Helictotrichon pubescens Pilg.,DBGI_SPL_000888,,,2578466.811,1182395.292,{773240d4-0722-45d1-a4cb-0db2585b0abf}
+"161",Anthoxanthum odoratum L.,DBGI_SPL_000899,,,2578467.414,1182395.533,{5c2955d5-5453-4c41-9a9d-82623d18f3cc}
+"162",Holcus lanatus L.,DBGI_SPL_000876,,,2578467.006,1182394.721,{19be02e1-079a-4cfa-8a61-c63aa88e88b1}
+"163",Ammophila arenaria (L.) Link,DBGI_SPL_000886,,,2578467.331,1182394.174,{26c0f386-598a-452d-babd-994ecf7eb778}
+"164",Agrostis capillaris L.,DBGI_SPL_000885,,,2578467.966,1182394.452,{e41e4660-1789-4d9e-8223-2a61094efc2c}
+"165",Briza media L.,DBGI_SPL_000898,,,2578468.138,1182394.035,{1c9f494a-6554-44de-afd7-a324c9d0a4ed}
+"166",Cyclamen purpurascens Mill.,DBGI_SPL_000379,,,2578474.281,1182409.435,{15e10307-9d22-494a-a1c8-a680dddd351c}
+"167",,DBGI_SPL_000503,,francoa sonchifolia selon panneau,2578504.76662949,1182400.43172727,{9ed20ea8-0c1e-4726-9713-ddc7973e0022}
+"168",,DBGI_SPL_000881,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recz7RNBZ8fdbHL2E,Lolium perenne,2578468.50073298,1182391.82853439,{bd24c5fa-ee74-41a9-a603-e65f615d54ab}
+"169",,DBGI_SPL_000881,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recz7RNBZ8fdbHL2E,Lolium perenne,2578468.50073298,1182391.82853439,{86267abd-e245-414e-8b65-ee5b9229bea1}
+"170",Sesleria argentea Savi,DBGI_SPL_000891,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rec9SiKZWO0gnT3V3,,2578470.30818991,1182388.57907179,{e7397e58-de96-4a5d-921d-7ec264e53b52}
+"171",Deschampsia cespitosa (L.) P. Beauv.,DBGI_SPL_000880,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recnFPXUtXJLNZMNc,,2578470.79914684,1182387.63101702,{5b57e5a9-98bb-4e79-bf45-96aa483e4932}
+"172",Dactylis glomerata L.,DBGI_SPL_000551,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recd6mBTuL4wg9xkx,,2578471.39168107,1182387.96960801,{7ae46758-1268-4f94-9632-b7b8ef467dda}
+"173",Phyllostachys nigra var. henonis (Mitford) Rendle,DBGI_SPL_000882,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/reca06XbL70uEpySL,,2578472.03500395,1182387.03848279,{e8e70d99-be71-4bb8-9eb4-47653cc475de}
+"174",Fargesia robusta T.P. Yi 'Campbell',DBGI_SPL_000871,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recLL6o0lHklUf85v,,2578472.62753818,1182386.02270983,{d256a100-e646-4a64-a5b4-fc582830670b}
+"175",Lolium multiflorum Lam.,DBGI_SPL_000897,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/reczf2WzwXZuPqxgH,,2578469.06679953,1182392.07675988,{cdde918f-4d2b-4c16-92ce-72fafe76fdf4}
+"176",,DBGI_SPL_000884,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recrDRaAR0Ffu8FIz,Milium effusum,2578468.8804859,1182391.15761263,{daa6bb87-2765-4298-97c7-1e343b880c1e}
+"177",Festuca ovina L.,DBGI_SPL_000543,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recXPsStREPh1QSkX,,2578469.92384225,1182390.94645717,{e2de4b04-1003-4fa1-9daa-0783fc6deca0}
+"178",,DBGI_SPL_000559,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/reci7iNnd1xdxf8tr,Festuca altissima,2578469.1661668,1182390.62351354,{a83ac989-8894-44c1-afd1-e8ff02fdcc6a}
+"179",Festuca rubra L. s.l.,DBGI_SPL_000558,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rec1syWYSLRn9Pk3D,,2578470.08531406,1182390.36267446,{e4c79cd3-b9e8-45a3-b77e-fe24c8cc64f6}
+"180",Pennisetum compressum R. Br.,DBGI_SPL_000516,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/receVJNUSVaVEugTg,,2578474.41586565,1182379.95542388,{712d2801-5b5c-4f53-a196-d9b80c9e13aa}
+"181",,DBGI_SPL_000874,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recxEYLzvLPFXtdFw,Pennisetum villosum fresen,2578474.07478,1182380.27124393,{ab653fe8-aefd-4cf8-9360-95d687580447}
+"182",,DBGI_SPL_000877,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recwSwt6axFBGiTra,Miscanthus oligostachys,2578470.40469715,1182384.25023703,{502baa15-2055-47e0-bd3e-055ac7f366de}
+"183",Molinia caerulea (L.) Moench,DBGI_SPL_000550,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recKeNwE97PDLIR9M,,2578467.16885416,1182389.47877129,{1912af50-dabe-409f-9d78-a1f2daaa6ddd}
+"184",Cortaderia selloana (Schult. et Schult. f.) Asch. et Graebn.,DBGI_SPL_000522,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rec3lRMxMSf8yIo6W,,2578466.69611422,1182390.5703708,{a6ff5a1b-a70f-4838-b612-fb66eaacc236}
+"185",Bromus erectus Huds. subsp. erectus,DBGI_SPL_000875,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rec7vxsYeupDXXhWD,,2578465.98270666,1182392.87390362,{a34e338d-908f-4eeb-8119-ef7e642b8c18}
+"186",,DBGI_SPL_000561,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recGOBDXC3E1txkgm,Melica nutans,2578465.22475549,1182393.17040658,{3f1efa3d-def0-44f3-ac8b-597c6710ac0f}
+"187",Hystrix patula Moench,DBGI_SPL_000557,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recqPbhF26EnVdOd2,,2578464.8883521,1182393.60970984,{73de03bc-6df0-41f8-9d89-3dd42daceec3}
+"188",Brachypodium pinnatum (L.) P. Beauv.,DBGI_SPL_000873,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recrPIcFfZY9HCNkh,,2578465.584905,1182394.13212452,{1c5d247b-0c7d-464c-8ae1-c81a78aa14e8}
+"189",Hordeum bulbosum L.,DBGI_SPL_000878,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recqLiYH7z2KWYNmO,,2578465.00708271,1182394.88012735,{04c99ec0-b26b-4348-9701-ff60c3679742}
+"190",Secale strictum (C. Presl) C. Presl subsp. strictum,DBGI_SPL_000511,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recp9tCuZdsNGo8f5,,2578464.35802205,1182394.6228777,{2d3a6f1c-375c-4667-8c9c-ffa72557141a}
+"191",Gunnera manicata Delchev.,DBGI_SPL_000507,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recHIGeNmbE3NwPFI,,2578469.96932897,1182377.41809723,{3272059f-bbe2-48f0-86a0-3a8b1168ea5a}
+"192",Tetracentron sinense Oliv.,DBGI_SPL_000521,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rechw3cuPJmEmeQws,,2578466.81739144,1182378.43167904,{94517944-ceef-4cde-b2a1-d525d7cdba1c}
+"193",Buxus sempervirens L.,DBGI_SPL_000525,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rectosLpKWEhCzO7Q,,2578468.69505579,1182381.07313905,{ca422db5-c2b7-44d7-ac12-78814dffaf8d}
+"194",Sarcococca confusa Sealy,DBGI_SPL_000555,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recDEFIysOoAQSwsA,,2578467.66074916,1182382.99854062,{c6ba0bc8-ff60-497d-9e49-f7ac14e77532}
+"195",,DBGI_SPL_000513,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rech62m6luSkD2uEo,Platanes orientalis,2578464.62147891,1182382.07562086,{6263d4bf-918a-4130-8c95-99419d1b3d5d}
+"196",Akebia quinata (Houtt.) Decne.,DBGI_SPL_000508,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/reczs2a572yZB8xjT,,2578464.1281942,1182385.7513875,{9b34991d-8400-4e56-9b91-f943c027234e}
+"197",Sinofranchetia chinensis (Franch.) Hemsl.,DBGI_SPL_000514,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/rec1DMMRPtIZBps7P,,2578463.58717227,1182387.32671606,{072fe807-338d-48ff-8374-5bd8145df575}
+"198",Berberis candidula (C.K. Schneid.) C.K. Schneid.,DBGI_SPL_000553,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recBsK4KSmqGWCXOL,,2578462.14261831,1182390.96289085,{a118adb9-a6db-42f2-962c-05afa9382fae}
+"199",Berberis wallichiana DC.,DBGI_SPL_000519,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recTCo9bRLBhA1w0A,,2578461.88058474,1182392.14728259,{76938dc9-81b6-4553-8824-e76be2c409d5}
+"200",Berberis gagnepaini C.K.Schneid.,DBGI_SPL_000547,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/reclf2UcHxZo1Etkg,,2578461.3565176,1182393.26878626,{cfa94c6d-41ad-4cd2-b8c3-9f92dfa9a064}
+"201",Berberis stenophylla Lindl.,DBGI_SPL_000523,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recqZnBlS1rYzTkFu,,2578461.00015195,1182394.12825637,{aaa58b0d-df9b-437c-876d-71551c93992e}
+"202",Berberis vulgaris L.,DBGI_SPL_000554,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recTiNh8VDsfZCRv0,,2578460.38175272,1182395.14494662,{818e5e4f-b7b3-47ec-b393-2d614ca5420d}
+"203",Epimedium pinnatum subsp. colchicum (Boiss.) N. Busch,DBGI_SPL_000887,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recero7zSalMiMUDh,,2578460.01490573,1182396.4865585,{c6588720-b5bd-491e-916f-63b96426fc02}
+"204",Mahonia bealei Carr.,DBGI_SPL_000548,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recTikdigOfgl3ixG,,2578459.45939456,1182396.49703984,{3b7f483a-9782-47be-90a0-f13138e9f262}
+"205",Mahonia aquifolium (Pursh) Nutt.,DBGI_SPL_000509,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recy1SHA5i50zOJ8C,,2578459.21036614,1182397.44794963,{b4888afe-6026-4805-8957-38a3cdd2bc2d}
+"206",Nandina domestica Thunb.,DBGI_SPL_000524,airtable:///appxkOPNiCtv6Ucww/tblzH2zLfdPf1HhIu/viwfX1MjXfIm9yaKs/recKW95GKZreyEg1t,,2578458.93264642,1182397.92933049,{970f502e-6287-4bf4-8961-24d3d7255b11}

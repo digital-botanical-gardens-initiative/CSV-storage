@@ -1,0 +1,168 @@
+x_coord;y_coord;spl_code;Plant_ID;ipen;match_name;ott_id;rank;wikidataID;unknown;UUID;Airtable
+7.156702933;46.79250015;DBGI_SPL_000379;Cyclamen purpurascens Mill.;XX 0 FRIBG 10002824;Cyclamen purpurascens;477901;species;http://www.wikidata.org/entity/Q149344;;{15e10307-9d22-494a-a1c8-a680dddd351c};NA
+7.156992252;46.79241871;DBGI_SPL_000380;Paeonia suffruticosa Andrews subsp. suffruticosa;XX 0 FRIBG 20150372;Paeonia suffruticosa;137620;species;http://www.wikidata.org/entity/Q163018;;{2f9e109e-cbb7-4a20-9947-4f7cabb858d0};NA
+7.156978947;46.79246828;DBGI_SPL_000381;Hydrangea aspera D. Don;XX 0 FRIBG 20190227;Hydrangea aspera;337774;species;http://www.wikidata.org/entity/Q1332124;;{c382e5b6-bbcf-423e-8bed-f59e3bd9d8e3};NA
+7.157141633;46.79228314;DBGI_SPL_000382;Ribes fasciculatum Siebold et Zucc.;XX 0 MJG 199811602;Ribes fasciculatum;852529;species;;;{65eb0675-5670-4c9a-badc-8b703f5afd62};NA
+7.157022096;46.7923974;DBGI_SPL_000383;Paeonia daurica subsp. mlokosewitschii (Lomakin) D.Y.Hong;XX 0 FRIBG 20160364;Paeonia daurica;825490;species;http://www.wikidata.org/entity/Q1307422;;{6cd33629-c0e9-485f-90fb-3571c6195e5d};NA
+7.156648282;46.79245445;DBGI_SPL_000384;Iris x germanica L.;XX 0 FRIBG 10001420;Iris haynei;472928;species;;;{1e08558c-a349-4262-8eb6-c9752e16109b};NA
+7.156651111;46.79238712;DBGI_SPL_000385;Allium porrum L.;;Allium nigrum;679985;species;http://www.wikidata.org/entity/Q161316;;{140f15cf-0fa3-423f-9079-3bcdf77cc7f1};NA
+7.15695403;46.79247939;DBGI_SPL_000386;Philadelphus coronarius L.;XX 0 FRIBG 20150355;Philadelphus coronarius;3900147;species;http://www.wikidata.org/entity/Q163791;;{911d62b6-57ba-4374-a5c6-4c6dca4bfca4};NA
+7.157100203;46.79241347;DBGI_SPL_000387;Tellima grandiflora (Pursh) Lindl.;XX 0 FRIBG 20200034;Tellima grandiflora;182588;species;http://www.wikidata.org/entity/Q847750;;{04b80a29-2360-428f-8cb7-efd1d3abc178};NA
+7.156668451;46.79237232;DBGI_SPL_000388;Allium fistulosum L.;XX 0 FRIBG 20140564;Allium fistulosum;856720;species;http://www.wikidata.org/entity/Q27938;;{a1a359e3-74c5-4aeb-a34b-81f57bf72b8d};NA
+7.157108095;46.79241963;DBGI_SPL_000389;Tolmiea menziesii (Pursh) Torr. et A. Gray.;US 0 M 2008/0582;Tolmiea menziesii;182586;species;;;{98d51030-630e-4d62-9b5e-d95018b619ba};NA
+7.15658577;46.79251612;DBGI_SPL_000390;Impatiens balsamina L.;XX 0 FRIBG 10000058;Impatiens balsamina;326129;species;http://www.wikidata.org/entity/Q845019;;{be16c04d-8ddd-4fa3-bbbe-acbbde834627};NA
+7.156698305;46.79250348;DBGI_SPL_000391;Androsace sempervivoides Duby;XX 0 FRIBG 20180034;Androsace sempervivoides;1054537;species;;;{5040f014-5210-4978-a0d6-0ab5e7110889};NA
+7.156777762;46.79229266;DBGI_SPL_000392;Arum italicum Mill.;XX 0 FRIBG 10000650;Arum italicum;17921;species;http://www.wikidata.org/entity/Q30968;;{d209d757-c946-45c5-8efe-70a6b8fbede8};NA
+7.157046511;46.79241447;DBGI_SPL_000393;Vitis vinifera L. subsp. vinifera;IT 0 P 2013g090;Vitis vinifera;756728;species;http://www.wikidata.org/entity/Q30046;;{398bf57f-54ea-459b-83bb-a5a84605c0da};NA
+7.157166425;46.79227345;DBGI_SPL_000394;Ribes nigrum L. 'Titania';XX 0 FRIBG 19940510;Ribes nigrum;248647;species;http://www.wikidata.org/entity/Q146604;;{e7baa7cc-1625-49f7-99ec-19f318c8ab95};NA
+7.157157222;46.79238255;DBGI_SPL_000395;Bergenia crassifolia (L.) Fritsch;XX 0 FRIBG 10002802;Bergenia crassifolia;756735;species;http://www.wikidata.org/entity/Q162752;;{bfebcc39-deed-4b63-b9df-0e1fa2b97a5c};NA
+7.156881369;46.79237874;DBGI_SPL_000396;Phyllitis scolopendrium (L.) Newman;XX 0 FRIBG 10002889;Phyllitis scolopendrium;905814;species;http://www.wikidata.org/entity/Q1130272;;{e70eb05d-d76a-4495-bf46-159b06b46bd1};NA
+7.156666056;46.79242432;DBGI_SPL_000397;Iris lutescens Lam.;XX 0 FRIBG 20080132;Iris lutescens;165869;species;;;{c2f451b3-ec0d-4f33-9279-859918693aa5};NA
+7.156762116;46.79231161;DBGI_SPL_000398;Baldellia ranunculoides (L.) Parl.;CH 0 FRIBG 20010434;Baldellia ranunculoides;817743;species;;;{fa75ae67-f308-4c93-afdf-e86686e5ea65};NA
+7.157012697;46.79234154;DBGI_SPL_000399;Juniperus communis L. subsp. communis;CH 0 FRIBG 20070505;Juniperus communis;582859;species;http://www.wikidata.org/entity/Q26325;;{8c5ef70c-fde8-4143-a5b7-4ae6fe28f73c};NA
+7.15684658;46.79233173;DBGI_SPL_000400;Asarum caudatum Lindl.;XX 0 FRIBG 19910363;Asarum caudatum;513165;species;http://www.wikidata.org/entity/Q4803629;;{ee3192b8-8c54-4653-aa13-ba1260244ae8};NA
+7.156772711;46.79240653;DBGI_SPL_000401;Calycanthus chinensis (W.C. Cheng et S.Y. Chang) P.T. Li;XX 0 FRIBG 20040554;Calycanthus chinensis;913239;species;http://www.wikidata.org/entity/Q11739000;;{fd0f9c96-4af6-4fd9-bd8b-3fd2cf75d83f};NA
+7.157097982;46.79242243;DBGI_SPL_000402;Saxifraga geranioides L.;XX 0 B 0270601;Saxifraga geranioides;306227;species;;;{4a256b99-9a07-4370-b72d-05d8262b9923};NA
+7.1570107;46.79240507;DBGI_SPL_000403;Paeonia mascula (L.) Mill. s.l.;XX 0 FRIBG 19970599;Paeonia mascula;163414;species;;;{3e237c8d-2249-4343-9ec7-a606c6cc1cf9};NA
+7.157087375;46.79242965;DBGI_SPL_000404;Saxifraga hostii Tausch;XX 0 FRIBG 10002925;Saxifraga hostii;1071846;species;;;{e79235d1-6195-4747-a7d3-43dfe52caaab};NA
+7.157112324;46.7922926;DBGI_SPL_000405;Ribes aureum Pursh;XX 0 FRIBG 20170331;Ribes aureum;64564;species;http://www.wikidata.org/entity/Q149376;;{f32d351e-3e9f-4844-b29d-9b6a18ff950d};NA
+7.156941056;46.79243343;DBGI_SPL_000406;Cornus sanguinea L.;CH 0 FRIBG 20020117;Cornus sanguinea;21994;species;;;{43eda29b-d5c4-4acb-ae82-1881f3693870};NA
+7.15672401;46.79230514;DBGI_SPL_000407;Chamaerops humilis L.;XX 0 FRIBG 10002815;Chamaerops humilis;452733;species;;;{d4f0392c-fdf8-44f8-8020-5291f00ed490};NA
+7.156697295;46.79236916;DBGI_SPL_000408;Lilium regale E.H. Wilson;XX 0 MJG 19--67000;Lilium regale;690489;species;http://www.wikidata.org/entity/Q1639505;;{2a502b28-8ade-4b84-826e-8032d1c10c41};NA
+7.156740505;46.7922966;DBGI_SPL_000409;Tradescantia virginiana L.;XX 0 FRIBG 10002384;Tradescantia virginiana;17935;species;http://www.wikidata.org/entity/Q2078366;;{180f3a0e-15a9-4db4-bbf9-21cc714a22b2};NA
+7.156801681;46.7924941;DBGI_SPL_000410;Halesia carolina L.;CH 0 FRIBG 20080445;Halesia carolina;250762;species;;;{494aca31-554b-4c8c-a00b-0da46abb91c9};NA
+7.15704015;46.79230639;DBGI_SPL_000411;Sciadopitys verticillata (Thunb.) Siebold  Zucc.;XX 0 FRIBG 10002197;Sciadopitys verticillata;164658;species;http://www.wikidata.org/entity/Q161648;;{9de1fd8b-3ab5-4671-ad48-a833c4709141};NA
+7.157059518;46.79237439;DBGI_SPL_000412;Corylopsis spicata Siebold et Zucc.;XX 0 FRIBG 20030892;Corylopsis spicata;467498;species;;;{223836cf-0e2f-4e44-ab3d-3c86cafc5c33};NA
+7.157092644;46.79241889;DBGI_SPL_000413;Saxifraga paniculata subsp. cartilaginea (Willd.) D.A. Webb;XX 0 FRIBG 10002181;Saxifraga paniculata;495623;species;;;{c46b2a5b-106a-4337-a5c1-c4b05704ffe4};NA
+7.156967494;46.79234715;DBGI_SPL_000414;Picea omorika (Pancic) Purk.;XX 0 FRIBG 20150331;Picea omorika;771684;species;http://www.wikidata.org/entity/Q147824;;{dfbabab5-af56-4581-ac80-d1db65ef8457};NA
+7.156865835;46.79236381;DBGI_SPL_000415;Dryopteris filix-mas (L.) Schott;XX 0 FRIBG 10001095;Dryopteris filix-mas;41613;species;http://www.wikidata.org/entity/Q322994;;{22b3b237-7a9e-4082-a014-d9d44bb20c87};NA
+7.156626323;46.79242094;DBGI_SPL_000416;Bulbine semibarbata (R. Br.) Haw.;XX 0 FRIBG 10000096;Bulbine semibarbata;626416;species;;;{2082f709-bf6c-45d9-a2bd-80e5b7b20149};NA
+7.156755197;46.79230731;DBGI_SPL_000417;Sagittaria sagittifolia L.;XX 0 FRIBG 10002127;Sagittaria sagittifolia;481954;species;http://www.wikidata.org/entity/Q161565;;{0f907d19-80f0-441f-8e70-1226f7f0cc2d};NA
+7.156683443;46.79234569;DBGI_SPL_000418;Ornithogalum viridiflorum (I.Verd.) J.C.Manning  Goldblatt;LS 1 M 2005/0451;Ornithogalum viridiflorum;842911;species;;;{7ccf68a7-9702-438c-bbfe-0caacffb0af2};NA
+7.156752601;46.79228523;DBGI_SPL_000419;Musa basjoo Iinuma;XX 0 FRIBG 10001655;Musa basjoo;842092;species;;;{09d77635-c3c1-4abb-ba3d-dde31cae561b};NA
+7.156927683;46.79235112;DBGI_SPL_000420;Pinus mugo subsp. uncinata (DC.) Domin;CH 0 FRIBG 20010599;Pinus mugo;1069751;species;http://www.wikidata.org/entity/Q147475;;{51983b57-b9e5-4aab-a6c4-d49b957f5b6d};NA
+7.156880642;46.7923651;DBGI_SPL_000421;Dryopteris dilatata (Hoffm.) A. Gray;CH 0 FRIBG 20020546;Dryopteris dilatata;795231;species;http://www.wikidata.org/entity/Q905897;;{3ad5ca05-0551-49b7-83b9-53e8bdc52764};NA
+7.156964001;46.79232149;DBGI_SPL_000422;Podocarpus nivalis Hook.;XX 0 FRIBG 20140300;Podocarpus nivalis;942;species;http://www.wikidata.org/entity/Q4992302;;{9580ce90-12a5-42db-9eed-8ccbe8c8da52};NA
+7.156860982;46.79239271;DBGI_SPL_000423;Catalpa ovata G. Don;XX 0 FRIBG 10000847;Catalpa ovata;309390;species;http://www.wikidata.org/entity/Q1144805;;{2c9fc3c9-3f73-422a-a2bb-e984acdbd454};NA
+7.157121747;46.79240872;DBGI_SPL_000424;Astilbe japonica (C. Morren et Decne.) A.Gray;XX 0 FRIBG 20010439;Astilbe japonica;1062950;species;;;{aea0a6d4-fb1d-42c2-87cc-c06e9a28ad57};NA
+7.156857024;46.7924605;DBGI_SPL_000425;Cornus florida fo. rubra (Weston) Schelle;XX 0 FRIBG 20160298;Cornus florida;148264;species;http://www.wikidata.org/entity/Q887221;;{8f35d02e-d286-41cb-83b0-b1f025e7d136};NA
+7.156966462;46.79245387;DBGI_SPL_000426;Kirengeshoma palmata Yatabe;XX 0 FRIBG 20060419;Kirengeshoma palmata;880698;species;;;{eb129202-66c8-4bf7-861b-242a543e521a};NA
+7.157062669;46.79243286;DBGI_SPL_000427;Sedum rupestre L.;XX 0 FRIBG 20160209;Sedum rupestre;810627;species;http://www.wikidata.org/entity/Q158943;;{a576b3ac-affd-4523-8a0a-4ae20ab92f6e};NA
+7.156736335;46.79247467;DBGI_SPL_000428;Cyrilla racemiflora L.;XX 0 FRIBG 20050229;Cyrilla racemiflora;66740;species;;;{831c0768-eaba-4eeb-bda3-2b38a463d488};NA
+7.156690057;46.79234829;DBGI_SPL_000429;Ornithogalum regale (Hilliard et B.L. Burtt) J.C. Manning et Goldblatt;ZA 0 KL 2013/2858;Ornithogalum regale;3969872;species;;;{50bffe71-1d67-49df-8b9e-041a7f8ff684};NA
+7.156774796;46.79249828;DBGI_SPL_000430;Stewartia pseudocamellia var. koreana ( Rehder) Sealy;XX 0 FRIBG 20070307;Stewartia pseudocamellia;112434;species;;;{36908d71-e686-4ada-82f7-f6817649de3d};NA
+7.156803436;46.79236445;DBGI_SPL_000431;Schisandra chinensis (Turcz.) Baill. mono�que;XX 0 FRIBG 20150335;;0;;;;{a7d14dc1-3a3e-4e49-b74e-2307c97ba5fa};NA
+7.156989232;46.79236031;DBGI_SPL_000432;Cephalotaxus harringtonii (J. Forbes) K. Koch;XX 0 FRIBG 20150362;Cephalotaxus harringtonii;10224;species;http://www.wikidata.org/entity/Q50839379;;{16a6656e-3560-4dc7-9256-c1c7259824db};NA
+7.156693037;46.79234454;DBGI_SPL_000433;Muscari neglectum Ten.;GR 0 FRIBG 20150191;Muscari neglectum;172927;species;http://www.wikidata.org/entity/Q163062;;{0ea4ec07-d2f4-403b-86a3-37b81016177d};NA
+7.156895494;46.79244761;DBGI_SPL_000434;Davidia involucrata Baill. s.l.;XX 0 FRIBG 20150346;Davidia involucrata;555257;species;;;{4563da82-75d1-40e2-9edc-22f6e483595a};NA
+7.156658048;46.79242042;DBGI_SPL_000435;Iris tectorum Maxim.;XX 0 FRIBG 20031178;Iris tectorum;724757;species;http://www.wikidata.org/entity/Q1023515;;{38157066-8822-448c-a478-f92be2a833f7};NA
+7.156658451;46.79243584;DBGI_SPL_000436;Iris spuria L. subsp. spuria;XX 0 FRIBG 20031176;Iris sintenisii;338404;species;;;{3fefcbd4-8d89-4532-972c-1a473ad5dece};NA
+7.156696212;46.79250556;DBGI_SPL_000437;Aaunknown;;;0;;;primula acaulis selon panneau;{87285d58-890c-4c43-96f0-646dc021d477};NA
+7.157158963;46.79226029;DBGI_SPL_000438;Ribes rubrum L. 'Blanc de Versailles';XX 0 FRIBG 10002012;Ribes rubrum;154642;species;http://www.wikidata.org/entity/Q146661;;{c7f44082-0992-44b7-8f0c-2cb2cd83c4e5};NA
+7.156699635;46.79249221;DBGI_SPL_000439;Erica terminalis Salisb.;XX 0 BHU G-1977-995;Helicia terminalis;5716319;species;;;{3f083952-bc1c-4b94-b011-0598717fa087};NA
+7.156694532;46.79250118;DBGI_SPL_000440;Primula auricula L.;CH 0 FRIBG 20030856;Primula auricula;330059;species;http://www.wikidata.org/entity/Q164186;;{0955f297-834c-48b4-b674-c770fe850635};NA
+7.15664194;46.79250971;DBGI_SPL_000441;Polemonium caeruleum L.;XX 0 FRIBG 10002892;Polemonium caeruleum;567407;species;;;{ff4a627a-df7a-4f3a-a487-52c89b3fee7d};NA
+7.156691446;46.79249022;DBGI_SPL_000442;Aaunknown;;;0;;;arbutus unedo selon panneau;{114518f6-f4ea-4ea4-ad8f-399b6c2588cb};NA
+7.157037786;46.79245239;DBGI_SPL_000443;Ampelopsis glandulosa var. brevipedunculata (Maxim.) Momiy.;AT 0 GZU 95 200388;Ampelopsis glandulosa;769625;species;;;{2ea78b85-3eab-40dd-bee8-a1376ee7c413};NA
+7.156996002;46.79231564;DBGI_SPL_000444;Taxus baccata L. femelle;XX 0 FRIBG 10002714;Taxus baccata;684215;species;http://www.wikidata.org/entity/Q179729;;{f0a1b63c-95b9-4c02-bae4-69e68f69489e};NA
+7.156758909;46.79236605;DBGI_SPL_000445;Aaunknown;;;0;;;sassafras albidum selon panneau;{d013561d-4c27-40c7-99c6-9c0e7ebbd9e4};NA
+7.157018105;46.79243154;DBGI_SPL_000446;Vitis vulpina L.;XX 0 FRIBG 10002487;Vitis vulpina;602495;species;http://www.wikidata.org/entity/Q1264038;;{8a260e13-1a27-451b-9e94-66aaee69fa1d};NA
+7.15706576;46.79243536;DBGI_SPL_000447;Sempervivum grandiflorum Haw.;XX 0 FRIBG 10002697;Sempervivum grandiflorum;5729850;species;http://www.wikidata.org/entity/Q1548057;;{4a310760-5e04-443c-8ec5-7c0fd5992f6a};NA
+7.157094393;46.79242498;DBGI_SPL_000448;Saxifraga hypnoides L.;XX 0 FRIBG 10002179;Saxifraga hypnoides;547207;species;;;{7ab6807e-aa3e-4f33-bec8-5547da5e1868};NA
+7.156759948;46.79247238;DBGI_SPL_000449;Actinidia kolomikta (Maxim. et Rupr.) Maxim.;XX 0 FRIBG 20160295;Actinidia kolomikta;279941;species;http://www.wikidata.org/entity/Q132741;;{800fc9e2-8adf-4af1-81d1-3a7c9bf22059};NA
+7.156956753;46.79245723;DBGI_SPL_000450;Hydrangea arborescens subsp. discolor (Ser.) E.M. McClint.;XX 0 FRIBG 10001361;Hydrangea arborescens;785493;species;http://www.wikidata.org/entity/Q278173;;{1006a9d3-3536-460a-84cd-96969236b325};NA
+7.156967835;46.79245931;DBGI_SPL_000451;Hydrangea paniculata Siebold 'Grandiflora';XX 0 FRIBG 20150351;Hydrangea paniculata;225987;species;http://www.wikidata.org/entity/Q158443;;{50d17e7e-37dd-4059-8b05-2771da165173};NA
+7.15700057;46.7924186;DBGI_SPL_000452;Paeonia rockii D.Y.Hong;PAYS INCONNU 0 FRIBG 20140335;Paeonia rockii;360650;species;http://www.wikidata.org/entity/Q2671785;;{cb5a685d-a108-4839-aa15-048dada58368};NA
+7.157071142;46.79243053;DBGI_SPL_000453;Sempervivum montanum L.;FR 0 FRIBG 20110412;Sempervivum montanum;5326548;species;http://www.wikidata.org/entity/Q161409;;{920b0712-5d5e-45de-bb7f-254234b80306};NA
+7.157085713;46.79242176;DBGI_SPL_000454;Saxifraga marginata Sternb.;XX 0 FRIBG 20010111;Saxifraga marginata;788682;species;;;{73dd4d1e-2221-42cc-9198-5fa92a61e497};NA
+7.1568708;46.79236876;DBGI_SPL_000455;Dryopteris affinis (Lowe) Fraser-Jenk.;XX 0 FRIBG 20040454;Dryopteris affinis;509215;species;;;{830a74d8-cb09-445b-86f0-3b022b31735d};NA
+7.156956691;46.79237411;DBGI_SPL_000456;Araucaria araucana (Molina) K. Koch;XX 0 FRIBG 20040709;Araucaria araucana;963047;species;http://www.wikidata.org/entity/Q158780;;{05b38322-bb68-4904-bf5a-ee4e4b29088c};NA
+7.156604251;46.79251621;DBGI_SPL_000457;Impatiens x new guinea;XX 0 FRIBG 20170486;x Astroworthia;220658;genus;;;{8ead1ebe-de3a-4eb7-bd26-1a1087c58121};NA
+7.157148524;46.79224031;DBGI_SPL_000458;Ribes uva-crispa var. sativum DC. 'Hinnonm�ki';XX 0 FRIBG 20040483;;0;;;;{d00adfb1-d554-496f-a703-bca0c8774db8};NA
+7.157068725;46.79243195;DBGI_SPL_000459;Sempervivum tectorum L. subsp. tectorum;FR 0 FRIBG 20150312;Sempervivum tectorum;286742;species;http://www.wikidata.org/entity/Q161724;;{9f22a417-dd36-4d15-940a-d96a2c818ecf};NA
+7.156650554;46.79251047;DBGI_SPL_000460;Phlox amplifolia Britton;XX 0 FRIBG 20120167;Phlox amplifolia;1012701;species;;;{7213dbf9-0ff2-4a0d-930a-4c32aa5f2187};NA
+7.156682511;46.79249318;DBGI_SPL_000461;Aaunknown;;;0;;;Piéris selon écriteau;{3ad77ce9-3bb0-46f4-8155-ca6f2aac87f6};NA
+7.157017536;46.79244759;DBGI_SPL_000462;Vitis labrusca L.;XX 0 FRIBG 10002486;Vitis labrusca;683964;species;http://www.wikidata.org/entity/Q311720;;{0c658c9c-6f18-4216-9358-bdffd2552e1c};NA
+7.156739238;46.79239315;DBGI_SPL_000463;Asimina triloba (L.) Dunal 'Sunflower';XX 0 FRIBG 20140306;Asimina triloba;709969;species;http://www.wikidata.org/entity/Q948827;;{8fc438e8-4303-45aa-b06e-2cc1a5339549};NA
+7.156738294;46.79243076;DBGI_SPL_000464;Nymphaea alba L.;XX 0 FRIBG 10001685;Nymphaea alba;1081719;species;http://www.wikidata.org/entity/Q147030;;{7a45dbfe-2c54-40da-9681-0dc174a95709};NA
+7.157035922;46.79238825;DBGI_SPL_000465;Paeonia lutea Franch.;XX 0 FRIBG 20030654;Paeonia lutea;163410;species;;;{f671e9df-eb5d-483f-8381-ed61b1cc4764};NA
+7.156820149;46.79247643;DBGI_SPL_000466;Pterostyrax hispida Siebold et Zucc.;XX 0 FRIBG 20040423;Acalypha hispida;1015290;species;http://www.wikidata.org/entity/Q163528;;{5a77e6c8-5abd-4755-bfe2-3cca3011bd29};NA
+7.156878179;46.79237523;DBGI_SPL_000467;Athyrium filix-femina (L.) Roth;CH 0 FRIBG 20020607;Athyrium filix-femina;718937;species;http://www.wikidata.org/entity/Q1345500;;{6e6d527c-58cd-49af-a5e4-b93a7411d963};NA
+7.157089003;46.79232889;DBGI_SPL_000468;Fothergilla gardenii L.;XX 0 FRIBG 10001206;Fothergilla gardenii;916076;species;;;{ece80f2e-0d92-49d5-9d13-9f5044b11650};NA
+7.157115971;46.79241383;DBGI_SPL_000469;Mitella caulescens Nutt.;XX 0 FRIBG 10001646;Mitella caulescens;365307;species;;;{a3296e78-bc5d-466c-a21a-b51a752cd1e9};NA
+7.156637982;46.79250265;DBGI_SPL_000470;Phlox drummondii Hook.;XX 0 FRIBG 20010620;Phlox drummondii;706216;species;http://www.wikidata.org/entity/Q164835;;{1ca477db-c3ab-4ce3-a861-3c89b635ff9d};NA
+7.15666673;46.79249796;DBGI_SPL_000471;Vaccinium corymbosum L. 'Patriot';XX 0 FRIBG 20150320;Vaccinium corymbosum;567253;species;http://www.wikidata.org/entity/Q468695;;{9c738771-29bb-42b0-af7a-8564dc220de8};NA
+7.156648536;46.79239105;DBGI_SPL_000472;Tulbaghia violacea Harv.;XX 0 UNKAR 2011-5108;Tulbaghia violacea;809755;species;http://www.wikidata.org/entity/Q7851979;;{3cb687f6-cc92-4be4-87f4-c791d9051526};NA
+7.15687494;46.79235849;DBGI_SPL_000473;Polystichum aculeatum (L.) Roth;XX 0 FRIBG 10002895;Polystichum aculeatum;682251;species;http://www.wikidata.org/entity/Q28957;;{7921147f-2fa6-44d6-b785-8f2569ac8c13};NA
+7.156636298;46.79250661;DBGI_SPL_000474;Cobaea scandens Cav.;XX 0 FRIBG 10000940;Cobaea scandens;558456;species;;;{58680eeb-2fb7-4f69-b4d2-8d8e01ebce78};NA
+7.156608564;46.79251298;DBGI_SPL_000475;Aaunknown;;;0;;;fleurs roses à violettes;{d99131bf-9e68-482c-b2af-e3a232dec2ba};NA
+7.156663268;46.79249634;DBGI_SPL_000476;Gaultheria procumbens L.;XX 0 FRIBG 20150350;Gaultheria procumbens;643041;species;http://www.wikidata.org/entity/Q386770;;{c5d1fa19-88cf-47e8-9e72-3c5bd539058b};NA
+7.156683182;46.79250508;DBGI_SPL_000477;Lysimachia punctata L.;XX 0 FRIBG 20160330;Lysimachia punctata;628234;species;http://www.wikidata.org/entity/Q158115;;{11f9f620-a02a-41d7-9e7e-e92485da6eec};NA
+7.1566544;46.79239181;DBGI_SPL_000478;Allium insubricum Boiss. et Reut.;IT 0 GZU 99 702388;Allium insubricum;346332;species;;;{1a26164f-f5e2-44c2-be9d-5a7127909302};NA
+7.157091502;46.79234685;DBGI_SPL_000479;Liquidambar styraciflua L.;XX 0 FRIBG 20160300;Liquidambar styraciflua;62530;species;http://www.wikidata.org/entity/Q469652;;{c4d7ffe0-cbe9-4251-8ae0-2b91330f2bae};NA
+7.157065892;46.79243014;DBGI_SPL_000480;Phedimus middendorffianus (Maxim.) 't Hart;XX 0 FRIBG 20160402;Phedimus middendorffianus;487843;species;http://www.wikidata.org/entity/Q9258378;;{8b3d9c0e-064f-4ff9-b02e-9f7851afffd7};NA
+7.156937364;46.79246309;DBGI_SPL_000481;Deutzia scabra Thunb. 'Pride of Rochester';XX 0 FRIBG 20150347;Deutzia scabra;282338;species;http://www.wikidata.org/entity/Q162403;;{d706c669-9430-4e58-8609-15d2984d5e5c};NA
+7.156702136;46.79248726;DBGI_SPL_000482;Erica vagans L.;XX 0 KL 2011/299;Eria vagans;3979143;species;;;{3ff317cc-cef2-452b-adc8-3843a149ef23};NA
+7.156671408;46.7925076;DBGI_SPL_000483;Lysimachia clethroides Duby;XX 0 FRIBG 10001584;Lysimachia clethroides;411957;species;http://www.wikidata.org/entity/Q1070109;;{574093fe-f0c3-46ad-aca8-19a10739582c};NA
+7.157055323;46.79229531;DBGI_SPL_000484;Ephedra fragilis Desf. s.l. Femelle;XX 0 FRIBG 20170258;Ephedra fragilis;185192;species;http://www.wikidata.org/entity/Q2697916;;{0d573a8e-d9db-4c81-9072-3fe2fe190843};NA
+7.156690352;46.79250159;DBGI_SPL_000485;Primula veris L. subsp. veris;CH 0 FRIBG 20210305;Primula veris;596319;species;http://www.wikidata.org/entity/Q157552;;{77e9ce3d-c80d-4827-ba54-281b15129ed6};NA
+7.156678937;46.7923558;DBGI_SPL_000486;Asparagus officinalis L.;FR 0 FRIBG 20030455;Asparagus officinalis;748359;species;http://www.wikidata.org/entity/Q28367;;{08047bfc-729a-4ee4-874f-3e0f057e0370};NA
+7.156785277;46.79247531;DBGI_SPL_000487;Franklinia alatamaha Marshall;XX 0 FRIBG 2720495;Franklinia alatamaha;313396;species;;;{81831c3a-321d-4921-9b75-0a23b93a8862};NA
+7.1568903;46.79237401;DBGI_SPL_000488;Asplenium adiantum-nigrum L.;FR 0 FRIBG 20130176;Asplenium adiantum-nigrum;933635;species;http://www.wikidata.org/entity/Q923786;;{4e14e1c0-a0c8-4d3e-ba8c-82e0b27416af};NA
+7.157028037;46.79232851;DBGI_SPL_000489;Cupressus sempervirens L.;IR 0 FRIBG 19900037;Cupressus sempervirens;949938;species;http://www.wikidata.org/entity/Q147513;;{0eac2763-fd05-4ccd-90ea-f067d617d47a};NA
+7.157137173;46.79233188;DBGI_SPL_000490;Cercidiphyllum japonicum Sieb. et Zucc. M�le;XX 0 FRIBG 10000882;;0;;;;{959b1916-0413-4fb6-aead-384033203a71};NA
+7.157070887;46.79243414;DBGI_SPL_000491;Chiastophyllum oppositifolium (Ledeb.) A.Berger;RU 0 BONN 22715;Chiastophyllum oppositifolium;5729807;species;;;{8ed34e1e-39b3-4e26-a572-b6c5709fe0b3};NA
+7.156719906;46.79248799;DBGI_SPL_000492;Clethra alnifolia L.;XX 0 FRIBG 10000937;Clethra alnifolia;274812;species;;;{c646e8c6-a259-42da-9c26-377f406453d8};NA
+7.156892438;46.79248086;DBGI_SPL_000493;Cornus alternifolia L. f.;XX 0 FRIBG 20160297;Cornus alternifolia;505075;species;;;{abf1b233-ac74-41db-80ac-52a0535017e6};NA
+7.157061219;46.79243469;DBGI_SPL_000494;Sedum telephium L. s.l.;XX 0 FRIBG 20160210;Sedum telephium;316299;species;http://www.wikidata.org/entity/Q1327535;;{a47d39bd-c040-4580-9162-ac7512dd0772};NA
+7.156653213;46.79244324;DBGI_SPL_000495;Iris lactea Pall. fo. lactea;KZ 0 BONN 33836;Androsace lactea;829472;species;;;{ca69271d-add3-44ff-8040-856c607f1873};NA
+7.156946136;46.79233635;DBGI_SPL_000496;Abies koreana E.H. Wilson;XX 0 FRIBG 20150333;Abies koreana;876314;species;http://www.wikidata.org/entity/Q390100;;{14a829f0-4c89-45ec-bfb5-a0401593c6ac};NA
+7.157106903;46.79240959;DBGI_SPL_000497;Tiarella cordifolia L.;XX 0 FRIBG 20160086;Tiarella cordifolia;738831;species;;;{dcd035a5-4409-43c6-8229-b536afe4b9cd};NA
+7.157127511;46.79240612;DBGI_SPL_000498;Darmera peltata (Benth.) Voss;XX 0 FRIBG 10001037;Darmera peltata;798411;species;http://www.wikidata.org/entity/Q1537045;;{67263e46-8448-49d4-b9da-0ff72fc36906};NA
+7.156851916;46.79248785;DBGI_SPL_000499;Sinojackia rehderiana Hu;XX 0 FRIBG 20070179;Sinojackia rehderiana;707571;species;;;{9fbeb7c9-5b10-47db-953c-b623a542bf1f};NA
+7.156746879;46.79249194;DBGI_SPL_000500;Diospyros lotus L. Femelle;XX 0 FRIBG 20030840;Diospyros lotus;918839;species;http://www.wikidata.org/entity/Q771101;;{ee8cfdba-794b-47e3-8e25-b7d9930de2bb};NA
+7.157102514;46.79241742;DBGI_SPL_000501;Heuchera americana L. s.l.;XX 0 FRIBG 20200014;Heuchera americana;883164;species;;;{f900eea7-9e63-432d-b90b-00b0e9df4e89};NA
+7.157096508;46.79237633;DBGI_SPL_000502;Parrotia persica (DC.) C.A. Mey.;XX 0 FRIBG 20150407;Parrotia persica;256506;species;http://www.wikidata.org/entity/Q1138533;;{af2e0a3b-7955-4995-b90d-27d48ff6204f};NA
+7.157102644;46.79242015;DBGI_SPL_000503;Aaunknown;;;0;;;francoa sonchifolia selon panneau;{4e7f9df9-0af3-4046-a26d-0443b24ef1a5};NA
+7.156984191;46.79247489;DBGI_SPL_000504;Hydrangea macrophylla (Murray) Ser.;XX 0 FRIBG 10001368;Hydrangea macrophylla;162001;species;http://www.wikidata.org/entity/Q159219;;{f182fe17-a451-4b22-811d-9070d41e9ee0};NA
+7.156606855;46.79238441;DBGI_SPL_000517;Brassica oleracea L. subsp. oleracea;XX 0 LZ AN-60-1970;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{ebceaea6-bb91-4d95-b65b-1a6245cf1607};NA
+7.156772142;46.79227286;DBGI_SPL_000520;Canna x generalis L.H. Bailey et E.Z. Bailey;XX 0 FRIBG 10000817;Canna indica;156276;species;http://www.wikidata.org/entity/Q163559;;{f80dbf22-6c45-41c8-a95e-da7dea9167cf};NA
+7.156779706;46.79238882;DBGI_SPL_000526;Calycanthus fertilis Walter s.l.;XX 0 FRIBG 20030566;Calycanthus fertilis;890686;species;http://www.wikidata.org/entity/Q165416;;{cee9f8b7-c49f-4145-bb2f-ff7ee4fcb419};NA
+7.156648005;46.79244218;DBGI_SPL_000527;Iris foetidissima L.;FR 0 FRIBG 20190106;Iris foetidissima;42054;species;http://www.wikidata.org/entity/Q2484930;;{dacb15d6-a901-49c1-ae3c-6f0e1e3b4454};NA
+7.15664573;46.79245891;DBGI_SPL_000529;Iris pallida Lam.;XX 0 FRIBG 20031174;Iris pallida;259588;species;http://www.wikidata.org/entity/Q161347;;{292c3466-0d70-46c8-ae14-24c967fc8121};NA
+7.15664367;46.79246215;DBGI_SPL_000530;Aaunknown;;;0;;;iris pallida subsp illyrica;{f7313ea1-229a-4e4a-a5f3-126f85f8c118};NA
+7.156841875;46.79233727;DBGI_SPL_000531;Saruma henryi Oliv.;XX 0 FRIBG 20160088;Saruma henryi;382276;species;http://www.wikidata.org/entity/Q1027731;;{6bf3e605-c904-4727-bbef-16448695d864};NA
+7.156754533;46.79241129;DBGI_SPL_000532;Chimonanthus praecox (L.) Link;XX 0 FRIBG 20080447;Chimonanthus praecox;324777;species;http://www.wikidata.org/entity/Q2566375;;{d518e6df-4960-45ed-bc84-a842cb30d731};NA
+7.156662636;46.79241469;DBGI_SPL_000533;Aaunknown;;;0;;;iris missouriensis;{aff78b76-781b-4f5a-b7ba-b55be909260b};NA
+7.156710231;46.79231766;DBGI_SPL_000534;Hosta sieboldiana (Hook.) Engl. var. sieboldiana;XX 0 FRIBG 19910154;Hosta sieboldiana;322367;species;http://www.wikidata.org/entity/Q882424;;{6a7b636a-5784-4a77-8217-bbc8802b6843};NA
+7.156696499;46.79244598;DBGI_SPL_000535;Magnolia liliiflora Desr. 'Nigra';XX 0 FRIBG 20140302;Magnolia liliiflora;288469;species;http://www.wikidata.org/entity/Q942031;;{f05c6598-e2ee-4d0c-8042-c6543767ccd7};NA
+7.156713668;46.79241886;DBGI_SPL_000536;Magnolia stellata (Siebold et Zucc.) Maxim. 'Royal Star';XX 0 FRIBG 20140301;Magnolia stellata;664533;species;http://www.wikidata.org/entity/Q839507;;{a4fe1472-be13-4ce2-ad4f-0ff2b646d9f4};NA
+7.156670047;46.79241761;DBGI_SPL_000537;Sisyrinchium patagonicum Phil.;XX 0 FRIBG 20020164;Sisyrinchium patagonicum;1004812;species;;;{e1268e97-b6d2-497c-9928-1c6978c9122c};NA
+7.156835751;46.79233134;DBGI_SPL_000538;Aristolochia rotunda L.;XX 0 STGAL 77;Aristolochia rotunda;1017836;species;http://www.wikidata.org/entity/Q2861412;;{591325e0-10c8-41fd-af90-87cb879fe20c};NA
+7.156662533;46.79238434;DBGI_SPL_000539;Allium x proliferum (Moench) Willd.;XX 0 FRIBG 20180319;Allium carolinianum;812430;species;;;{fc5eac45-ab8d-4a58-bf8b-809a8d53749f};NA
+7.156665551;46.79236846;DBGI_SPL_000540;Allium tuberosum Spreng.;XX 0 FRIBG 20030895;Allium tuberosum;748374;species;http://www.wikidata.org/entity/Q42285;;{8cf11a71-11f3-4d7b-a79e-960f9b79d52a};NA
+7.156649837;46.79243507;DBGI_SPL_000541;Iris crocea R.C. Foster;XX 0 FRIBG 19970587;Iris crocea;3998472;species;http://www.wikidata.org/entity/Q15569556;;{0a1256bd-e4ed-41bc-8295-a9300ded46a1};NA
+7.15665606;46.7924273;DBGI_SPL_000542;Iris sibirica L.;XX 0 FRIBG 10002865;Iris sibirica;43087;species;http://www.wikidata.org/entity/Q145686;;{f915a010-de1b-48b9-9f22-e4d191136c40};NA
+7.156588988;46.79240484;DBGI_SPL_000544;Brassica oleracea L. Rubra Group;XX 0 FRIBG 10000760;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{40a540f3-07cd-4bb1-85f8-277aab9a98ff};NA
+7.156598227;46.79239636;DBGI_SPL_000546;Brassica oleracea L. Sabellica Group;XX 0 FRIBG 10000757;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{6baf43a8-2015-4b71-93d7-476bf17f6305};NA
+7.156602017;46.79239295;DBGI_SPL_000552;Aaunknown;;;0;;;brassica indeterminé;{20aea8f6-dc25-4352-91b3-bdaafaf5470c};NA
+7.15659103;46.79240248;DBGI_SPL_000556;Brassica oleracea L. Capitata Group;XX 0 FRIBG 10000759;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{a911b6b3-f361-4bd6-94f7-4d4b63db8bdb};NA
+7.156578313;46.79242494;DBGI_SPL_000560;Brassica oleracea L. Gongylodes Group;XX 0 FRIBG 10000762;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{b4ea0067-73c2-4de6-94d4-799c5cb121a7};NA
+7.156650902;46.79244671;DBGI_SPL_000564;Iris kochii Stapf;XX 0 FRIBG 20031173;Iris kochii;7582479;species;;;{8723f42c-28c8-4a42-a290-a97422f5ef69};NA
+7.156663368;46.79242986;DBGI_SPL_000565;Iris forrestii Dykes;CN 0 FRIBG 20040365;Iris forrestii;64952;species;;;{4327eb49-62e7-44ba-9407-4f52d23fdbd3};NA
+7.156630181;46.79241443;DBGI_SPL_000566;Kniphofia ensifolia Baker s.l.;XX 0 FRIBG 10001474;Kniphofia ensifolia;803732;species;http://www.wikidata.org/entity/Q2257218;;{f65f6cad-718a-4534-9218-5932ff7e394a};NA
+7.156610652;46.79246458;DBGI_SPL_000567;Crocus sativus L.;XX 0 FRIBG 20190327;Crocus sativus;542824;species;http://www.wikidata.org/entity/Q15041677;;{603d34b4-24f4-4b86-968b-a56cb787a6a8};NA
+7.156608345;46.79236755;DBGI_SPL_000876;Holcus lanatus L.;CH 0 FRIBG 20140022;Holcus lanatus;762970;species;;;{19be02e1-079a-4cfa-8a61-c63aa88e88b1};NA
+7.156601854;46.7923766;DBGI_SPL_000883;Calamagrostis epigejos Roth.;XX 0 FRIBG 20030407;Calamagrostis epigejos;188845;species;;;{cf5c18f7-cd28-4588-8036-a85d7410e71e};NA
+7.156620932;46.79236517;DBGI_SPL_000885;Agrostis capillaris L.;XX 0 FRIBG 20160222;Agrostis capillaris;550221;species;;;{e41e4660-1789-4d9e-8223-2a61094efc2c};NA
+7.156612628;46.79236264;DBGI_SPL_000886;Ammophila arenaria (L.) Link;DE 0 HBG 2012-S-169;Ammophila arenaria;258545;species;;;{26c0f386-598a-452d-babd-994ecf7eb778};NA
+7.156605764;46.79237268;DBGI_SPL_000888;Helictotrichon pubescens Pilg.;XX 0 FRIBG 20000227;Helictotrichon pubescens;548920;species;;;{773240d4-0722-45d1-a4cb-0db2585b0abf};NA
+7.156629486;46.79243216;DBGI_SPL_000889;Asphodelus ramosus L. subsp. ramosus;XX 0 LZ S-187-1998;Asphodelus ramosus;41518;species;http://www.wikidata.org/entity/Q256956;;{8f5b2978-1966-47c7-9a65-58bf09ef1485};NA
+7.156576167;46.79242951;DBGI_SPL_000890;Brassica napus subsp. rapifera Metzg.;XX 0 FRIBG 10000752;Brassica napus;309234;species;http://www.wikidata.org/entity/Q177932;;{db848693-7a51-48d9-ad42-0a4f8f882730};NA
+7.156594445;46.79240065;DBGI_SPL_000892;Brassica oleracea L. Sabauda Group;XX 0 FRIBG 10000761;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{1913832d-de5b-43ad-ad1d-c14d67f134c7};NA
+7.156618085;46.79246081;DBGI_SPL_000893;Gladiolus murielae Kelway;XX 0 FRIBG 10002850;Gladiolus murielae;957907;species;;;{f60a39fb-b48c-494f-aaa1-0735150f2bf0};NA
+7.15661058;46.79238104;DBGI_SPL_000894;Koeleria macrantha (Ledeb.) Schult.;XX 0 FRIBG 19990187;Koeleria macrantha;624555;species;;;{52cc4cb9-317c-44e9-9fb1-acb77dc785a0};NA
+7.156595491;46.79239857;DBGI_SPL_000895;Brassica oleracea L. Gemmifera Group;XX 0 FRIBG 10000764;Brassica oleracea;833642;species;http://www.wikidata.org/entity/Q146212;;{0083b0f0-bc54-40f0-820d-7731b15295eb};NA
+7.156613535;46.79244667;DBGI_SPL_000896;Hemerocallis fulva (L.) L.;XX 0 FRIBG 10001324;Hemerocallis fulva;62294;species;http://www.wikidata.org/entity/Q1424440;;{e90b6c09-1cc9-4147-a9b7-fc3a8b5e52cc};NA
+7.156623204;46.79236142;DBGI_SPL_000898;Briza media L.;CH 0 FRIBG 20020681;Briza media;672;species;http://www.wikidata.org/entity/Q164237;;{1c9f494a-6554-44de-afd7-a324c9d0a4ed};NA
+7.156613651;46.79237487;DBGI_SPL_000899;Anthoxanthum odoratum L.;CH 0 FRIBG 20170389;Anthoxanthum odoratum;188813;species;;;{5c2955d5-5453-4c41-9a9d-82623d18f3cc};NA
