@@ -1,6 +1,8 @@
 #close all in the environment
 rm(list=ls())
 
+#Install package
+install.packages("rgdal")
 #Library
 library(rgdal)
 
