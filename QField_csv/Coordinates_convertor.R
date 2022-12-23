@@ -15,6 +15,7 @@ sep <- "/"
 
 #parameters to fill
 file <- "System_JBUF.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
+file_tsv <- "System_JBUF.tsv" #Neeeded to make the final tsv
 coord_1 <- "x_coord" #Header of the first coord column
 coord_2 <- "y_coord" #Header of the second coord column
 transit_suffix <- "WGS84_transit_" #Put the prefix you want to add to the final document
@@ -24,6 +25,7 @@ final_suffix <- "WGS84_"
 path_file <- paste0(path, sep, file)
 transit_path <- paste0(path, sep, transit_suffix, file)
 final_path <- paste0(path, sep, final_suffix, file)
+final_path_tsv <- paste0(path, sep, final_suffix,file_tsv)
 
 #Import of the input CSV
 data_raw <- read.csv(file = path_file, header = TRUE)
@@ -45,6 +47,9 @@ coords_WGS84 <- LV95_to_WGS84(data_raw)
 data_raw$x_coord <- coords_WGS84[,1]
 data_raw$y_coord <- coords_WGS84[,2]
 
+#Rearranges the order of the columns
+data_raw <- data_raw %>% select(Plant_ID, Panel, General, Detail, Cut, Panel.Labe, x_coord, y_coord, fid, spl_code, mg)
+
 #Creates the transition CSV
 write.csv(data_raw, transit_path, row.names = FALSE)
 
@@ -55,14 +60,16 @@ df1 <- read.csv(file = transit_path, header = TRUE)
 #Import the old final CSV and merges it with the transition CSV, without making duplicates. Then rewrites the final CSV.
 #If there is an old final CSV
 if(file.exists(final_path)){
-  df2 <- read.csv2(file = final_path, header = TRUE)
+  df2 <- read.csv(file = final_path, header = TRUE)
   combined <- rbind(df2, df1)
   combined <- combined %>%
     distinct(spl_code, .keep_all = TRUE)
   write.csv(combined, final_path, row.names = FALSE)
+  write.table(combined, final_path_tsv, row.names =FALSE, sep = "\t")
   #If there isn't any final CSV
   } else {
     write.csv(df1, final_path, row.names = FALSE)
+    write.table(df1, final_path_tsv, row.names =FALSE, sep = "\t")
   }
 
 ncol(df1)
