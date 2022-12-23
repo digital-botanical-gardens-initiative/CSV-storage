@@ -69,7 +69,7 @@ if(file.exists(final_path)){
   #If there isn't any final CSV
   } else {
     write.csv(df1, final_path, row.names = FALSE)
-    write.table(df1, final_path_tsv, row.names =FALSE, sep = "\t")
+    write.table(df1, final_path_tsv, row.names =FALSE, sep = "\t", quote = FALSE)
   }
 
 ncol(df1)
