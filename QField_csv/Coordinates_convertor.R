@@ -1,32 +1,37 @@
-#close all in the environment
+#Closes all in the environment
 rm(list=ls())
 
-#Install package
-install.packages("rgdal")
-#Library
-library(rgdal)
+#Installs package (If you don't already have rgdal, execute by retiring the #)
+#install.packages("rgdal")
+#install.packages("dplyr")
 
-#Determine the location of the R file and add a separation
+#Loads the used library
+library(rgdal)
+library(dplyr)
+
+#Determines the location of the R file and add a separation
 path <- getwd()
 sep <- "/"
 
 #parameters to fill
-file <- "System_JBUF_5.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
+file <- "System_JBUF.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
 coord_1 <- "x_coord" #Header of the first coord column
 coord_2 <- "y_coord" #Header of the second coord column
-suffix <- "WGS84_" #Put the prefix you want to add to the final document
+transit_suffix <- "WGS84_transit_" #Put the prefix you want to add to the final document
+final_suffix <- "WGS84_"
 
-#Creation of the input and final path
+#Creation of the input , transition and final path
 path_file <- paste0(path, sep, file)
-final_path <- paste0(path, sep, suffix, file)
+transit_path <- paste0(path, sep, transit_suffix, file)
+final_path <- paste0(path, sep, final_suffix, file)
 
-#Import of the imput CSV
-data <- read.csv(file = path_file, header = TRUE, sep = ",")
+#Import of the input CSV
+data_raw <- read.csv(file = path_file, header = TRUE)
 
 #sort the data with SPL code
-data <- data[order(data$spl_code), ]
+data_raw <- data_raw[order(data_raw$spl_code), ]
 
-#The conversion function
+#The conversion function from LV95 to WGS84
 LV95_to_WGS84 <- function(myCoords_LV95) {
   df <- data.frame(myCoords_LV95)
   coordinates(df) <- ~ x_coord + y_coord
@@ -35,10 +40,30 @@ LV95_to_WGS84 <- function(myCoords_LV95) {
   myCoords_WGS84@coords
 }
 
-#Replace the LV95 coords by WGS84 coords in the imput CSV
-coords_WGS84 <- LV95_to_WGS84(data)
-data$x_coord <- coords_WGS84[,1]
-data$y_coord <- coords_WGS84[,2]
+#Replaces the LV95 coords by WGS84 coords in the imput CSV
+coords_WGS84 <- LV95_to_WGS84(data_raw)
+data_raw$x_coord <- coords_WGS84[,1]
+data_raw$y_coord <- coords_WGS84[,2]
 
-#Replace the imput CSV by the final CSV
-write.csv(data, final_path, row.names = FALSE)
+#Creates the transition CSV
+write.csv(data_raw, transit_path, row.names = FALSE)
+
+# reads the transition CSV into data frame
+df1 <- read.csv(file = transit_path, header = TRUE)
+
+#If statement to manage when the final CSV is not yet created.
+#Import the old final CSV and merges it with the transition CSV, without making duplicates. Then rewrites the final CSV.
+#If there is an old final CSV
+if(file.exists(final_path)){
+  df2 <- read.csv2(file = final_path, header = TRUE)
+  combined <- rbind(df2, df1)
+  combined <- combined %>%
+    distinct(spl_code, .keep_all = TRUE)
+  write.csv(combined, final_path, row.names = FALSE)
+  #If there isn't any final CSV
+  } else {
+    write.csv(df1, final_path, row.names = FALSE)
+  }
+
+ncol(df1)
+ncol(df2)
