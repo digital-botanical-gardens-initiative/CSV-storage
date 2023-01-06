@@ -20,10 +20,12 @@ coord_1 <- "x_coord" #Header of the first coord column
 coord_2 <- "y_coord" #Header of the second coord column
 transit_suffix <- "WGS84_transit_" #Put the prefix you want to add to the final document
 final_suffix <- "WGS84_"
+do_not_open <- "do_not_open.csv"
 
 #Creation of the input , transition and final path
 path_file <- paste0(path, sep, file)
 transit_path <- paste0(path, sep, transit_suffix, file)
+final_path_do_not_open <- paste0(path, sep, do_not_open)
 final_path <- paste0(path, sep, final_suffix, file)
 final_path_tsv <- paste0(path, sep, final_suffix,file_tsv)
 
@@ -57,20 +59,19 @@ write.csv(data_raw, transit_path, row.names = FALSE)
 df1 <- read.csv(file = transit_path, header = TRUE)
 
 #If statement to manage when the final CSV is not yet created.
-#Import the old final CSV and merges it with the transition CSV, without making duplicates. Then rewrites the final CSV.
+#Import the old final CSV and merges it with the transition CSV, without making duplicates. Then rewrites the final CSV, with mention do not open.
 #If there is an old final CSV
-if(file.exists(final_path)){
-  df2 <- read.csv(file = final_path, header = TRUE)
+if(file.exists(final_path_do_not_open)){
+  df2 <- read.csv(file = final_path_do_not_open, header = TRUE)
   combined <- rbind(df2, df1)
   combined <- combined %>%
     distinct(spl_code, .keep_all = TRUE)
-  write.csv(combined, final_path, row.names = FALSE)
-  write.table(combined, final_path_tsv, row.names =FALSE, sep = "\t")
+  write.csv(combined, final_path_do_not_open, row.names = FALSE)
   #If there isn't any final CSV
   } else {
-    write.csv(df1, final_path, row.names = FALSE)
-    write.table(df1, final_path_tsv, row.names =FALSE, sep = "\t", quote = FALSE)
+    write.csv(df1, final_path_do_not_open, row.names = FALSE)
   }
 
-ncol(df1)
-ncol(df2)
+#Make final CSV and TSV that can be edited and opened without problems, because continuously completely rewritten. Do not causes the risk to corrupt the code.
+write.csv(df2, final_path, row.names = FALSE)
+write.table(df2, final_path, row.names = FALSE, sep = "\t")
