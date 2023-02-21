@@ -10,17 +10,17 @@ library(rgdal)
 library(dplyr)
 
 #Determines the location of the R file and add a separation
-path <- getwd()
+path <- "C:/Users/edoua/Desktop/DBGI_project/CSV-storage/QField_csv"
 sep <- "/"
 
 #parameters to fill
-file <- "System_JBUF.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
-file_tsv <- "System_JBUF.tsv" #Neeeded to make the final tsv
+file <- "Stephanie_sample.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
+file_tsv <- "Stephanie_sample.tsv" #Neeeded to make the final tsv
 coord_1 <- "x_coord" #Header of the first coord column
 coord_2 <- "y_coord" #Header of the second coord column
 transit_suffix <- "WGS84_transit_" #Put the prefix you want to add to the final document
 final_suffix <- "WGS84_"
-do_not_open <- "do_not_open.csv"
+do_not_open <- "do_not_open_stephanie.csv"
 
 #Creation of the input , transition and final path
 path_file <- paste0(path, sep, file)
@@ -74,4 +74,4 @@ if(file.exists(final_path_do_not_open)){
 
 #Make final CSV and TSV that can be edited and opened without problems, because continuously completely rewritten. Do not causes the risk to corrupt the code.
 write.csv(df2, final_path, row.names = FALSE)
-write.table(df2, final_path, row.names = FALSE, sep = "\t")
+write.table(df2, final_path, row.names = FALSE, sep = "/t")
