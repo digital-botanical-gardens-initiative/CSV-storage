@@ -14,13 +14,13 @@ path <- "C:/Users/edoua/Desktop/DBGI_project/CSV-storage/QField_csv"
 sep <- "/"
 
 #parameters to fill
-file <- "Stephanie_sample.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
-file_tsv <- "Stephanie_sample.tsv" #Neeeded to make the final tsv
+file <- "Succulent_greenhouse.csv" #Place the name of the input CSV here. It has to be in the same folder as the R file.
+file_tsv <- "Succulent_greenhouse.tsv" #Neeeded to make the final tsv
 coord_1 <- "x_coord" #Header of the first coord column
 coord_2 <- "y_coord" #Header of the second coord column
 transit_suffix <- "WGS84_transit_" #Put the prefix you want to add to the final document
 final_suffix <- "WGS84_"
-do_not_open <- "do_not_open_stephanie.csv"
+do_not_open <- "do_not_open_succulent.csv"
 
 #Creation of the input , transition and final path
 path_file <- paste0(path, sep, file)
